@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { FiMenu } from "react-icons/fi"; // You can use any icons you prefer
-import "./Navbar.css"; // Create a separate CSS file for styling
+import { FiMenu } from "react-icons/fi"; 
+import "./Navbar.css"; 
 import logo from "./images/logo.jpg";
 
 function Navbar() {
